@@ -12,6 +12,6 @@ Simple Python + SQLite project for analyzing store sales, customer groups, and t
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/](https://github.com/)fedorshvetsof58/ecommerce-sql-analytics.git
+   git clone [https://github.com/](https://github.com/)fedorshvetsov58/ecommerce-sql-analytics.git
    cd ecommerce-sql-analytics
    ```
